@@ -7,4 +7,6 @@ yfinance==0.2.47
 pandas==2.2.3
 numpy==1.26.4
 gunicorn==22.0.0
-eventlet==0.36.1
+gevent==24.2.1
+gevent-websocket==0.10.1
+ 
