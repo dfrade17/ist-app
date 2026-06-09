@@ -1,0 +1,10 @@
+flask==3.0.3
+flask-cors==4.0.1
+flask-socketio==5.3.6
+feedparser==6.0.11
+requests==2.32.3
+yfinance==0.2.47
+pandas==2.2.3
+numpy==1.26.4
+gunicorn==22.0.0
+eventlet==0.36.1
